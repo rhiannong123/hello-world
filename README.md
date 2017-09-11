@@ -1,2 +1,4 @@
 # hello-world
-testing test test
+Here I am, learning to use git. 
+
+~Rhiannon
